@@ -1,0 +1,88 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": "2",
+      "name": "Jane Doe",
+      "email": "jane@example.com"
+    },
+    {
+      "id": "9f2f",
+      "name": "Swapnali",
+      "username": "nikumbh05",
+      "email": "nikumbh05@gmail.com",
+      "contactNumber": "8732763672",
+      "password": "Yugantar@5",
+      "profileImage": "null"
+    },
+    {
+      "id": "591e",
+      "name": "ss",
+      "username": "s",
+      "email": "s@gmail.com",
+      "contactNumber": "1234567890",
+      "password": "s123",
+      "profileImage": "null"
+    },
+    {
+      "id": "a99a",
+      "name": "moni",
+      "username": "moni",
+      "email": "m@gamil.com",
+      "contactNumber": "1234567890",
+      "password": "m123",
+      "profileImage": "null"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Task 1",
+      "status": "pending"
+    },
+    {
+      "id": "2",
+      "title": "Task 2",
+      "status": "completed"
+    },
+    {
+      "id": "397a",
+      "name": "ui",
+      "priority": "Medium",
+      "deadline": "2025-02-26",
+      "stage": 3
+    },
+    {
+      "id": "1469",
+      "name": "s",
+      "priority": "High",
+      "deadline": "2025-02-22",
+      "stage": 1
+    },
+    {
+      "id": "d8e8",
+      "name": "a",
+      "priority": "Low",
+      "deadline": "2025-02-20",
+      "stage": 1
+    },
+    {
+      "id": "1740574306329",
+      "name": "backend",
+      "priority": "High",
+      "deadline": "2025-02-27",
+      "stage": 0
+    },
+    {
+      "id": "1740574958308",
+      "name": "dashboard",
+      "priority": "High",
+      "deadline": "2025-02-14",
+      "stage": 0
+    }
+  ]
+}
