@@ -36,53 +36,92 @@
       "contactNumber": "1234567890",
       "password": "m123",
       "profileImage": "null"
+    },
+    {
+      "id": "cbbb",
+      "name": "shubh",
+      "username": "shubh",
+      "email": "sh@gmail.com",
+      "contactNumber": "8732763672",
+      "password": "sh123",
+      "profileImage": {}
+    },
+    {
+      "id": "efc5",
+      "name": "test2",
+      "username": "test2",
+      "email": "test2@gmail.com",
+      "contactNumber": "",
+      "password": "test@",
+      "profileImage": "null"
     }
   ],
   "tasks": [
     {
       "id": "1",
-      "title": "Task 1",
-      "status": "pending"
+      "name": "Task 1",
+      "stage": 0,
+      "userId": "user1"
     },
     {
       "id": "2",
-      "title": "Task 2",
-      "status": "completed"
+      "name": "Task 2",
+      "stage": 1,
+      "userId": "user2"
     },
     {
-      "id": "397a",
-      "name": "ui",
+      "id": "3",
+      "name": "Task 3",
+      "stage": 2,
+      "userId": "user1"
+    },
+    {
+      "id": "1740677679481",
+      "name": "moni",
       "priority": "Medium",
-      "deadline": "2025-02-26",
-      "stage": 3
+      "deadline": "2025-02-27",
+      "stage": 2,
+      "userId": "a99a"
     },
     {
-      "id": "1469",
-      "name": "s",
-      "priority": "High",
-      "deadline": "2025-02-22",
-      "stage": 1
+      "id": "1740680642679",
+      "name": "s2",
+      "priority": "Medium",
+      "deadline": "2025-02-12",
+      "stage": 0,
+      "userId": "591e"
     },
     {
-      "id": "d8e8",
-      "name": "a",
-      "priority": "Low",
-      "deadline": "2025-02-20",
-      "stage": 1
+      "id": "1740682051417",
+      "name": "sh1",
+      "priority": "Medium",
+      "deadline": "2025-02-12",
+      "stage": 0,
+      "userId": "cbbb"
     },
     {
-      "id": "1740574306329",
-      "name": "backend",
+      "name": "test2",
       "priority": "High",
       "deadline": "2025-02-27",
-      "stage": 0
+      "stage": 1,
+      "userId": "efc5",
+      "id": "1740709533312"
     },
     {
-      "id": "1740574958308",
-      "name": "dashboard",
-      "priority": "High",
-      "deadline": "2025-02-14",
-      "stage": 0
+      "name": "test2",
+      "priority": "Medium",
+      "deadline": "2025-02-27",
+      "stage": 1,
+      "userId": "efc5",
+      "id": "1740709573665"
+    },
+    {
+      "name": "test2",
+      "priority": "Medium",
+      "deadline": "2025-02-27",
+      "stage": 1,
+      "userId": "efc5",
+      "id": "1740709618391"
     }
   ]
 }
